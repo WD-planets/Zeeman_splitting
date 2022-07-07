@@ -1,4 +1,4 @@
-# Sippet_Zeeman_splitting
+# Snippet_Zeeman_splitting
 
 This is a program to generate the Zeeman splitting curves for hydrogen.
 These show the effect on the hydrogen lines of varying magnetic field
