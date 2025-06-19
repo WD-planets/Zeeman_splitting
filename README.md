@@ -1,12 +1,7 @@
 # Snippet_Zeeman_splitting
 
-This is a program to generate the Zeeman splitting curves for hydrogen.
-These show the effect on the hydrogen lines of varying magnetic field
-strengths. It is based based on "Atomic Data for the Spectral Analysis of
-Magnetic DA White Dwarfs in the SDSS" (2014ApJS..212...26S).
-The data was downloaded from  https://doi.org/10.18419/darus-2118
+This python function generates the Zeeman splitting diagrams for hydrogen (aka "spaghetti plots"). These show the effect on the hydrogen lines of varying magnetic field strengths. It is based based on the atomic data by Schimeczek & Wunner (2014ApJS..212...26S), which was downloaded from  https://doi.org/10.18419/darus-2118. If you use this function, please cite Inight et al. (2023MNRAS.524.4867I) and Schimeczek & Wunner (2014ApJS..212...26S).
 
-It is implemented as a python function.
 
 ![](Example.jpg)
 
