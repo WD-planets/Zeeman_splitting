@@ -1,6 +1,8 @@
 # Snippet_Zeeman_splitting
 
-This python function generates the Zeeman splitting diagrams for hydrogen (aka "spaghetti plots"). These show the effect on the hydrogen lines of varying magnetic field strengths. It is based based on the atomic data by Schimeczek & Wunner (2014ApJS..212...26S), which was downloaded from  https://doi.org/10.18419/darus-2118. If you use this function, please cite Inight et al. (2023MNRAS.524.4867I) and Schimeczek & Wunner (2014ApJS..212...26S).
+This python function generates the Zeeman splitting diagrams for hydrogen (aka "spaghetti plots"). These show the effect on the hydrogen lines of varying magnetic field strengths. It is based based on the atomic data by Schimeczek & Wunner (2014ApJS..212...26S), which was downloaded from  https://doi.org/10.18419/darus-2118. 
+
+If you use this function, please cite Inight et al. (2023MNRAS.524.4867I) and Schimeczek & Wunner (2014ApJS..212...26S).
 
 
 ![](Example.jpg)
