@@ -3,7 +3,7 @@
 """
 Created on Fri Mar 11 16:10:35 2022
 
-@author: keith
+@author: Keith Inight
 """
 
 #!/usr/bin/env python3
@@ -13,9 +13,9 @@ Created on Fri Mar 11 16:10:35 2022
 
 To generate splitting curves for hydrogen
 
-Based on paper 2014ApJS..212...26S
+Using the atomic data form Schimeczek & Wunner (2014ApJS..212...26S), data downloaded from  https://doi.org/10.18419/darus-2118
 
-Data downloaded from  https://doi.org/10.18419/darus-2118
+Please cite Schimeczek & Wunner (2014ApJS..212...26S) and Inight et al. (2023MNRAS.524.4867I).
 
 
 Initial version  keith Inight  3 July 2022
